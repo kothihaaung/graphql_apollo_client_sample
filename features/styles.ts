@@ -21,12 +21,14 @@ export default StyleSheet.create({
     paddingLeft: 20,
     paddingRight: 20,
     borderBottomWidth: 1,
-    borderBottomColor: '#cccccc',
+    borderBottomColor: '#474642',
   },
   header: {
     fontWeight: 'bold',
+    color: 'white',
   },
   subheader: {
     paddingTop: 10,
+    color: '#bab19b',
   },
 })
