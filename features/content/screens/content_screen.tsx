@@ -18,7 +18,7 @@ type ChapterItemProps = {
     onPress: () => void;
 };
 
-const ChapterItem: React.FC<ChapterItemProps> = ({ chapter, onPress }) => {
+const ChapterItem = ({ chapter, onPress }: ChapterItemProps): React.JSX.Element => {
     const { number, title } = chapter
     let header, subheader
 
