@@ -4,14 +4,13 @@ import styles from "../../styles";
 import React from "react";
 
 const CHAPTERS_QUERY = gql`
-  query Chapters {
-    chapters {
-      id
-      number
-      title
-    }
-  }
-`
+    query {
+        chapters {
+            id
+            number
+            title
+        }
+    }`
 
 type ChapterItemProps = {
     chapter: Chapter;
