@@ -13,6 +13,8 @@
 #import "FBReactNativeSpec/FBReactNativeSpec.h"
 #import "FBReactNativeSpecJSI.h"
 #import "RCTModulesConformingToProtocolsProvider.h"
+#import "rnasyncstorage/rnasyncstorage.h"
+#import "rnasyncstorageJSI.h"
 
 FOUNDATION_EXPORT double ReactCodegenVersionNumber;
 FOUNDATION_EXPORT const unsigned char ReactCodegenVersionString[];
