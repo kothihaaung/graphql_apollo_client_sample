@@ -18,7 +18,7 @@ type ChapterItemProps = {
     onPress: () => void;
 };
 
-const ChapterItem = ({ chapter, onPress }: ChapterItemProps): React.JSX.Element => {
+const ChapterItem = ({ chapter, onPress }: ChapterItemProps) => {
     const { number, title } = chapter
     let header, subheader
 
