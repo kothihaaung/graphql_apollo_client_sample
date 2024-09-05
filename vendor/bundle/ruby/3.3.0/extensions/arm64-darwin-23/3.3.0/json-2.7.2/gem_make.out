@@ -1,0 +1,16 @@
+current directory: /Users/thihathedev/Documents/dev/projects/ios/github/graphql_apollo_client_sample/graphql_apollo_client_sample/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+/Users/thihathedev/.rvm/rubies/ruby-3.3.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/thihathedev/Documents/dev/projects/ios/github/graphql_apollo_client_sample/graphql_apollo_client_sample/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240905-7628-er4tfa sitelibdir\=./.gem.20240905-7628-er4tfa clean
+
+current directory: /Users/thihathedev/Documents/dev/projects/ios/github/graphql_apollo_client_sample/graphql_apollo_client_sample/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240905-7628-er4tfa sitelibdir\=./.gem.20240905-7628-er4tfa
+make: Nothing to be done for `all'.
+
+current directory: /Users/thihathedev/Documents/dev/projects/ios/github/graphql_apollo_client_sample/graphql_apollo_client_sample/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240905-7628-er4tfa sitelibdir\=./.gem.20240905-7628-er4tfa install
+
+current directory: /Users/thihathedev/Documents/dev/projects/ios/github/graphql_apollo_client_sample/graphql_apollo_client_sample/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240905-7628-er4tfa sitelibdir\=./.gem.20240905-7628-er4tfa clean

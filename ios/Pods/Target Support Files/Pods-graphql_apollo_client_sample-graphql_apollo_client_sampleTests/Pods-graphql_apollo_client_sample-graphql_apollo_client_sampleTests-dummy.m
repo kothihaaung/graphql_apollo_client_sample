@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_graphql_apollo_client_sample_graphql_apollo_client_sampleTests : NSObject
+@end
+@implementation PodsDummy_Pods_graphql_apollo_client_sample_graphql_apollo_client_sampleTests
+@end
